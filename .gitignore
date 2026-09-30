@@ -1,0 +1,17 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# XAMPP / Local Configuration
+error_log
+*.log
+
+# Sensitive environment configs (if any in future)
+.env
